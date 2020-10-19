@@ -1,5 +1,5 @@
-# Accepted Conference Paper Lists
-Accepted Journal/Conference Paper Lists
+# Accepted Conference Paper/Journal Lists
+Accepted Conference Paper Lists:
 
 ### AAAI
 * [AAAI2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf) 
@@ -32,6 +32,18 @@ Accepted Journal/Conference Paper Lists
 ### NLPCC
 * [NLPCC2020](http://tcci.ccf.org.cn/conference/2020/acceptpapers.php)
 * [NLPCC2019](http://tcci.ccf.org.cn/conference/2019/acceptpapers.php)
+
+### VLDB
+* [VLDB2020](https://vldb2020.org/accepted-papers.html)
+* [VLDB2019](https://vldb.org/2019/?papers-research)
+
+
+Accepted Journal Paper Lists:
+
+### TKDE
+* [TKDE2020]()
+* [TKDE2019](https://ieeexplore.ieee.org/abstract/document/8926562)
+
 
 # Conference acceptance rates
 [Conference acceptance rates](https://aclweb.org/aclwiki/Conference_acceptance_rates)
