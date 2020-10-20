@@ -33,6 +33,10 @@ Accepted Conference Paper Lists:
 * [COLING2020]()
 * [COLING2019]()
 
+## CIKM
+* [CIKM2020](https://www.cikm2020.org/accepted-papers/accepted-research-papers/)
+* [CIKM2019](https://dblp.org/db/conf/cikm/cikm2019.html)
+
 ### NLPCC
 * [NLPCC2020](http://tcci.ccf.org.cn/conference/2020/acceptpapers.php)
 * [NLPCC2019](http://tcci.ccf.org.cn/conference/2019/acceptpapers.php)
