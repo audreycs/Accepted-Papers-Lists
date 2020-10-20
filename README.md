@@ -48,9 +48,8 @@ Accepted Conference Paper Lists:
 
 Accepted Journal Paper Lists:
 
-### TKDE
-* [TKDE2020]()
-* [TKDE2019](https://ieeexplore.ieee.org/abstract/document/8926562)
+### TKDE  
+[here](https://www.computer.org/csdl/journals)
 
 
 # Conference acceptance rates
