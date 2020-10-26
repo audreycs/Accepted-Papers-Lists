@@ -26,8 +26,8 @@ Accepted Conference Paper Lists:
 * [WWW2019](https://www2019.thewebconf.org/accepted-papers)
 
 ### EMNLP
-* [EMNLP]()
-* [EMNLP](https://github.com/roomylee/EMNLP-2019-Papers)
+* [EMNLP2020](https://2020.emnlp.org/papers/main)
+* [EMNLP2019](https://github.com/roomylee/EMNLP-2019-Papers)
 
 ### COLING
 * [COLING2020]()
