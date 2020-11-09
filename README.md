@@ -29,6 +29,10 @@ Accepted Conference Paper Lists:
 * [EMNLP2020](https://2020.emnlp.org/papers/main)
 * [EMNLP2019](https://github.com/roomylee/EMNLP-2019-Papers)
 
+### ISWC
+* [ISWC2020](https://iswc2020.semanticweb.org/program/accepted-papers/)
+* [ISWC2019](https://iswc2019.semanticweb.org/accepted-papers/)
+
 ### COLING
 * [COLING2020]()
 * [COLING2019]()
