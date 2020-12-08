@@ -2,9 +2,9 @@
 
 ## Accepted Conference Paper Lists:
 
-| **Conference** | 2019 | 2020 |
+| Conference | 2019 | 2020 |
 | :----------| :----| :----|
-| AAAI | [link](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf) | [link](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf) |
+| AAAI | `[link](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)` | [link](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf) |
 | NeurIPS       | [link](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-32-2019) | [link](https://neurips.cc/Conferences/2020/AcceptedPapersInitial) |
 | ACL      | [link](https://www.aclweb.org/anthology/volumes/P19-1/) | [link](https://acl2020.org/program/accepted/) |
 | ICML | [link](https://www.idiap.ch/~katharas/pages/accepted-papers-at-icml-2019.html) | [link](https://icml.cc/Conferences/2020/Schedule?type=Poster) |
