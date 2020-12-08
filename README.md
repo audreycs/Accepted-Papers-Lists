@@ -9,10 +9,10 @@
 | ACL      | [:arrow_heading_up:](https://www.aclweb.org/anthology/volumes/P19-1/) | [:arrow_heading_up:](https://acl2020.org/program/accepted/) |
 | ICML | [:arrow_heading_up:](https://www.idiap.ch/~katharas/pages/accepted-papers-at-icml-2019.html) | [:arrow_heading_up:](https://icml.cc/Conferences/2020/Schedule?type=Poster) |
 | IJCAI | [:arrow_heading_up:](https://www.ijcai19.org/accepted-papers.html) | [:arrow_heading_up:](http://static.ijcai.org/2020-accepted_papers.html) |
-| WWW | [:arrow_heading_up:](https://www2019.thewebconf.org/accepted-papers) | [:arrow_heading_up:]() |
+| WWW | [:arrow_heading_up:](https://www2019.thewebconf.org/accepted-papers) | :x: |
 | EMNLP | [:arrow_heading_up:](https://github.com/roomylee/EMNLP-2019-Papers) | [:arrow_heading_up:](https://2020.emnlp.org/papers/main) |
 | ISWC | [:arrow_heading_up:](https://iswc2019.semanticweb.org/accepted-papers/) | [:arrow_heading_up:](https://iswc2020.semanticweb.org/program/accepted-papers/) |
-| COLING | [:arrow_heading_up:](https://www.aclweb.org/anthology/volumes/C18-1/) | [:arrow_heading_up:](https://coling2020.org/pages/accepted_papers_main_conference.html) |
+| COLING | :x: | [:arrow_heading_up:](https://coling2020.org/pages/accepted_papers_main_conference.html) |
 | CIKM | [:arrow_heading_up:](https://dblp.org/db/conf/cikm/cikm2019.html) | [:arrow_heading_up:](https://www.cikm2020.org/accepted-papers/accepted-research-papers/) |
 | NLPCC | [:arrow_heading_up:](http://tcci.ccf.org.cn/conference/2019/acceptpapers.php) | [:arrow_heading_up:](http://tcci.ccf.org.cn/conference/2020/acceptpapers.php) |
 | VLDB | [:arrow_heading_up:](https://vldb.org/2019/?papers-research) | [:arrow_heading_up:](https://vldb2020.org/accepted-papers.html) |
