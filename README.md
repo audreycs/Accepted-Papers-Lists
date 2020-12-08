@@ -19,6 +19,9 @@ A table of accepted paper list of influential conferences from 2019.
 | VLDB | [:arrow_heading_up:](https://vldb.org/2019/?papers-research) | [:arrow_heading_up:](https://vldb2020.org/accepted-papers.html) |
 
 <br>
+:arrow_heading_up: - click the link   :x: - no list yet
+
+<br>
 
 ## Conference acceptance rates
 [Conference acceptance rates](https://aclweb.org/aclwiki/Conference_acceptance_rates)
