@@ -18,8 +18,7 @@ A table of accepted paper list of influential conferences from 2019.
 | NLPCC | [:arrow_heading_up:](http://tcci.ccf.org.cn/conference/2019/acceptpapers.php) | [:arrow_heading_up:](http://tcci.ccf.org.cn/conference/2020/acceptpapers.php) |
 | VLDB | [:arrow_heading_up:](https://vldb.org/2019/?papers-research) | [:arrow_heading_up:](https://vldb2020.org/accepted-papers.html) |
 
-<br>
-:arrow_heading_up: - click the link   :x: - no list yet
+:arrow_heading_up: - click the link  <br /> <br />  :x: - no list yet
 
 <br>
 
