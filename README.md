@@ -22,4 +22,4 @@ A table of the accepted paper list of influential conferences from 2019.
 
 ## Other helpful links 
 
-[Conference acceptance rates](https://aclweb.org/aclwiki/Conference_acceptance_rates)
+1. [Conference acceptance rates](https://aclweb.org/aclwiki/Conference_acceptance_rates)
