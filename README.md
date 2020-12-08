@@ -34,8 +34,8 @@ Accepted Conference Paper Lists:
 * [ISWC2019](https://iswc2019.semanticweb.org/accepted-papers/)
 
 ### COLING
-* [COLING2020]()
-* [COLING2019]()
+* [COLING2020](https://coling2020.org/pages/accepted_papers_main_conference.html)
+* [COLING2018](https://www.aclweb.org/anthology/volumes/C18-1/)
 
 ## CIKM
 * [CIKM2020](https://www.cikm2020.org/accepted-papers/accepted-research-papers/)
