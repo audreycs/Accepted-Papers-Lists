@@ -21,5 +21,6 @@ A table of the accepted paper list of influential conferences from 2019.
 <br>
 
 ## Other helpful links 
-
-1. [Conference acceptance rates](https://aclweb.org/aclwiki/Conference_acceptance_rates)
+1. :alarm_clock: [AI Conference Deadlines](https://aideadlin.es/?sub=ML,NLP,DM)
+2. :bar_chart: [Conference acceptance rates](https://aclweb.org/aclwiki/Conference_acceptance_rates)
+3. :chart: [Conference Ranks](http://www.conferenceranks.com/#)
