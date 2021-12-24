@@ -1,6 +1,4 @@
-## A Collection of Accepted Conference Papers:
-
-Start from 2018.
+## A Collection of Accepted Papers on ML/DB/NLP Conferences:
 
 | **Conference** | 2018 | 2019 | 2020 | 2021 | 2022 |
 | :----------| :----:| :----:| :----:| :----:| :----: |
