@@ -1,5 +1,6 @@
-## Accepted Conference Paper Lists:
-A table of the accepted paper list of influential conferences from 2018.
+## A Collection of Accepted Conference Papers:
+
+Start from 2018.
 
 | **Conference** | 2018 | 2019 | 2020 | 2021 | 2022 |
 | :----------| :----:| :----:| :----:| :----:| :----: |
