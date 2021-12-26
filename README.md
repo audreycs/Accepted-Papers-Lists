@@ -1,4 +1,4 @@
-## A Collection of Accepted Papers on ML/DB/NLP Conferences:
+## A Collection of Accepted Paper Lists on ML/DB/NLP Conferences:
 
 | **Conference** | 2018 | 2019 | 2020 | 2021 | 2022 |
 | :----------| :----:| :----:| :----:| :----:| :----: |
