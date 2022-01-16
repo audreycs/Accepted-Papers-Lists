@@ -14,7 +14,7 @@
 | CIKM | ~ May (05) | [:arrow_heading_up:](https://dblp.org/db/conf/cikm/cikm2018) | [:arrow_heading_up:](https://dblp.org/db/conf/cikm/cikm2019.html) | [:arrow_heading_up:](https://www.cikm2020.org/accepted-papers/accepted-research-papers/) | [:arrow_heading_up:](https://www.cikm2021.org/accepted-papers) | |
 | VLDB | ~ Mar. (03) | [:arrow_heading_up:](http://vldb2018.lncc.br/call-for-research-track.html) | [:arrow_heading_up:](https://vldb.org/2019/?papers-research) | [:arrow_heading_up:](https://vldb2020.org/accepted-papers.html) | [:arrow_heading_up:](https://vldb.org/2021/?papers-research) | |
 
-:arrow_heading_up: `click the link` &nbsp; &nbsp;  :x: `no list for this year` &nbsp; &nbsp; :heavy_check_mark: `acceptance results out! wait for the proceddings`
+:arrow_heading_up: `click the link` &nbsp; &nbsp;  :x: `no list for this year` &nbsp; &nbsp; :heavy_check_mark: `acceptance results out! wait for the lists`
 
 <br>
 
