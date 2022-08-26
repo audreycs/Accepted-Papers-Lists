@@ -24,3 +24,4 @@
 1. :alarm_clock: [AI Conference Deadlines](https://aideadlin.es/?sub=ML,NLP,DM)
 2. :bar_chart: [Conference acceptance rates](https://aclweb.org/aclwiki/Conference_acceptance_rates)
 3. :chart: [Conference Ranks](http://www.conferenceranks.com/#)
+4. :chart: [Journal, Conference Impact](https://www.resurchify.com/)
