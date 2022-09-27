@@ -1,7 +1,5 @@
 ## A Collection of Accepted Paper Lists on ML/DB/NLP Conferences:
 
-(Feel free to make pull requests!)
-
 | **Conference** | Sub. time |2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
 | :----------| :----: | :----:| :----:| :----:| :----:| :----: | :----: | :----: |
 | AAAI       | ~ Sep. (09) |[:arrow_heading_up:](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf) |[:arrow_heading_up:](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf) | [:arrow_heading_up:](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf) | [:arrow_heading_up:](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf) | [:arrow_heading_up:](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf) | | |
@@ -19,6 +17,8 @@
 | VLDB | ~ Mar. (03) | [:arrow_heading_up:](http://vldb2018.lncc.br/call-for-research-track.html) | [:arrow_heading_up:](https://vldb.org/2019/?papers-research) | [:arrow_heading_up:](https://vldb2020.org/accepted-papers.html) | [:arrow_heading_up:](https://vldb.org/2021/?papers-research) | | | |
 
 :arrow_heading_up: `click the link` &nbsp; &nbsp;  :x: `no list for this year` &nbsp; &nbsp; :heavy_check_mark: `acceptance results out! wait for the lists`
+
+P.S. Feel free to make pull requests!
 
 <br>
 
