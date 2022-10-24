@@ -19,7 +19,7 @@
 
 :arrow_heading_up: `click the link` &nbsp; &nbsp;  :x: `no list for this year` &nbsp; &nbsp; :heavy_check_mark: `acceptance results out! wait for the lists`
 
-P.S. *Feel free to make pull requests!*
+P.S. *Feel free to pull requests!*
 
 <br>
 
