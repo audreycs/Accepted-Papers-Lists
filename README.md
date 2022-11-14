@@ -19,7 +19,9 @@
 
 :arrow_heading_up: `check the list` &nbsp; &nbsp;  :x: `no conference this year` &nbsp; &nbsp; :heavy_check_mark: `acceptance notif. out! wait for the list`
 
-P.S. *Feel free to pull requests!*
+<br>
+
+***P.S. Feel free to pull requests!***
 
 <br>
 
